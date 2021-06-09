@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SH3H4N
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on sld3v
+- 👋 Hi, I’m <b>@SH3H4N</b>
+- 👀 I’m interested in <b>Programming</b>
+- 🌱 I’m currently learning <b>Pyhon</b>
+- 💞️ I’m currrenty working on <b>SLD3V</b>
 
 <!---
 SH3H4N/SH3H4N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
