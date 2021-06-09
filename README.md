@@ -1,31 +1,80 @@
-### Hello! I'm SH3H4N <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Co--Founder%20%40%20-SLD3V-brightgreen)](https://github.com/SLD3V)
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-## About Me
-- 🦁 I’m from - <b>Sri Lanka</b> 🇱🇰
-- 🖥️ I’m interested in - <b>Programming</b> 🐱‍💻
-- 🌱 I’m currently learning - <b>Python</b> 🐍
-- 🔭 I’m currently working on - <b>SLD3V</b> 😎
-- ⚡ Fun fact - <b>I'm fairly good at digital art</b> 🎨
+### <div align="center">I'm Shehan, 👨‍💻 Interested in coding things based on my interest. 🐱‍💻 </div>  
+  
 
-<!-- Also feel free to update second URL to any URL -->
-[![SH3H4N's github stats](https://github-readme-stats.vercel.app/api?username=SH3H4N&count_private=true&include_all_commits=true&theme=radical)](https://github.com/sh3h4n)
+- 🔭 I’m currently working on [SLD3V](https://github.com/sld3v)  
+  
 
-## Connect with me:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🌱 I’m currently learning Python  
+  
+
+- 🦁 I’m from Sri Lanka  
+  
+
+- ⚡ Fun fact - I'm fairly good at digital art   
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td><td valign="top" width="33%">
+
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/sh3h4n" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/catafilaz" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/sh3h4n" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sh3h4n&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=sh3h4n&&style=flat-square" align="center" />
+</div>  
+
 <br />
 
-<!-- Optional if you have blogs -->
-## Latest blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- This section you create this variables that are used above -->
-[website]: https://github.com/sld3v
-[twitter]: https://twitter.com/catafilaz
-[linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
 
 <!---
 SH3H4N/SH3H4N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
