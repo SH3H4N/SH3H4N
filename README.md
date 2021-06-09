@@ -1,5 +1,5 @@
 ### Hello! I'm SH3H4N <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)](https://github.com/SLD3V)
+[![Website](https://img.shields.io/badge/Co--Founder%20%40%20-SLD3V-brightgreen)](https://github.com/SLD3V)
 
 ## About Me
 - 🦁 I’m from - <b>Sri Lanka</b>
@@ -23,7 +23,7 @@
 
 <!-- This section you create this variables that are used above -->
 [website]: https://google.com
-[twitter]: https://twitter.com/indrajeet_nikam
+[twitter]: https://twitter.com/catafilaz
 [linkedin]: https://www.linkedin.com/in/indrajeet-nikam-3737a8101/
 
 <!---
