@@ -2,13 +2,14 @@
 [![Website](https://img.shields.io/badge/Co--Founder%20%40%20-SLD3V-brightgreen)](https://github.com/SLD3V)
 
 ## About Me
-- 🦁 I’m from - <b>Sri Lanka</b>
-- 🖥️ I’m interested in - <b>Programming</b>
-- 🌱 I’m currently learning - <b>Python</b>
-- 🔭 I’m currently working on - <b>SLD3V</b>
+- 🦁 I’m from - <b>Sri Lanka</b> 🇱🇰
+- 🖥️ I’m interested in - <b>Programming</b> 🐱‍💻
+- 🌱 I’m currently learning - <b>Python</b> 🐍
+- 🔭 I’m currently working on - <b>SLD3V</b> 😎
+- ⚡ Fun fact - <b>I'm fairly good at digital art</b> 🎨
 
 <!-- Also feel free to update second URL to any URL -->
-[![SH3H4N's github stats](https://github-readme-stats.vercel.app/api?username=SH3H4N&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![SH3H4N's github stats](https://github-readme-stats.vercel.app/api?username=SH3H4N&count_private=true&include_all_commits=true&theme=radical)](https://github.com/sh3h4n)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
